@@ -1,5 +1,7 @@
 # Alarm
 
+<img src="https://github.com/jzkarap/alarm/blob/master/alarm.gif?raw=true">
+
 Vanilla JavaScript alarm that runs in a browser.
 
 Features:
