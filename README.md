@@ -12,3 +12,5 @@ Features:
 To add:
 - Allow user to directly set hours, minutes, seconds
 - Provide alarm sound selection
+
+<img src="http://abload.de/img/time_up1ff1d.jpg">
